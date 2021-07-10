@@ -9,9 +9,9 @@
 
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/natasha-miyaguti-9077a3216/](https://www.linkedin.com/in/natasha-miyaguti-9077a3216/)
 
-[![Projetos Blue](https://github-readme-stats.vercel.app/api/pin/?username=NatashaMiyaguti&repo=Projetos-Blue)](https://github.com/NatashaMiyaguti/Projetos-Blue)
+[![Projetos Blue](https://github-readme-stats.vercel.app/api/pin/?username=NatashaMiyaguti&repo=Projetos-Blue&theme=dracula)](https://github.com/NatashaMiyaguti/Projetos-Blue)
 
-[![Um dia de Cão](https://github-readme-stats.vercel.app/api/pin/?username=NatashaMiyaguti&repo=Projeto5_Blue)](https://github.com/NatashaMiyaguti/Projeto5_Blue)
+[![Um dia de Cão](https://github-readme-stats.vercel.app/api/pin/?username=NatashaMiyaguti&repo=Projeto5_Blue&theme=dracula)](https://github.com/NatashaMiyaguti/Projeto5_Blue)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaMiyaguti&theme=dracula)](https://github.com/NatashaMiyaguti/github-readme-stats)
 
