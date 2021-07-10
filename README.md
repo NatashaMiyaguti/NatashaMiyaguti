@@ -9,6 +9,9 @@
 
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/natasha-miyaguti-9077a3216/](https://www.linkedin.com/in/natasha-miyaguti-9077a3216/)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NatashaMiyaguti&theme=dracula)](https://github.com/NatashaMiyaguti/github-readme-stats)
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NatashaMiyaguti&show_icons=true&theme=dracula)](https://github.com/NatashaMiyaguti/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
