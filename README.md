@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natashamiyaguti&label=Profile%20views&color=0e75b6&style=flat" alt="natashamiyaguti" /> </p>
 
-- 🌱 Atualmente estou aprendendo **Python**
+- 🌱 Atualmente estou aprendendo **JavaScript**
 
 - 📫Meu email **naty.miyaguti@gmail.com**
 
